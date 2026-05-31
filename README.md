@@ -41,7 +41,7 @@ Bảng STUDENT:
 ### Clone project
 
 ```bash
-git clone https://github.com/TranNgocMinh24100190/SQL_TEST.git
+git clone https://github.com/AnhHius/SQLtest.git
 cd SQL_TEST
 ```
 
